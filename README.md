@@ -1,6 +1,7 @@
 # Credit Card Fraud Detection using Neural Networks
 
-![image](https://github.com/user-attachments/assets/7b2a6ff0-e08c-4716-b0bc-07a48fd70ee0)
+![image](https://github.com/user-attachments/assets/3bfc7794-198d-4380-97ec-0c052bcc8c6a)
+
 
 - Original 2023 CUNY Tech Prep Authors: Evan Perez, Anthony Poon, and Jonathan Shields
 - Continued in 2024 by Evan Perez
