@@ -5,7 +5,7 @@
 
 - Original 2023 CUNY Tech Prep Authors: Evan Perez, Anthony Poon, and Jonathan Shields
 - Continued in 2024 by Evan Perez
-- Link to CUNY Tech Prep Version: (https://github.com/anthonypoon12/CTP-Team-2-Final-Project)
+- Link to CUNY Tech Prep Repo: (https://github.com/anthonypoon12/CTP-Team-2-Final-Project)
   
 - In this project, we aim to expand upon current methods of binary classification of fraudulent credit card transactions in a synthesized dataset. Current methods with this dataset have been with Support Vector Machine (SVM) and Logisitc Regression. We propose a neural network as it can take advantage of the large number of samples within the dataset and potentially pick out complex patterns effectively.
 - In this notebook, we explore the dataset's features by checking for multicollinearity, analyzing feature distributions and class distribution, and augmenting the dataset by appending a new column called "Per Change" which represents the percent change from the beginning of a transaction to the end of the transaction.
